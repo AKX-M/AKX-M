@@ -1,4 +1,3 @@
-## Hi there 👋
 
 [![My Skills](https://skillicons.dev/icons?i=matlab,python,c++)](https://skillicons.dev)
 
