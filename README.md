@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Страницы+истории+потомков+Жуковского)](https://git.io/typing-svg)
+
 
 [![My Skills](https://skillicons.dev/icons?i=matlab,python,c++)](https://skillicons.dev)
 
