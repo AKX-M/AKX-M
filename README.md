@@ -2,7 +2,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=matlab,python,c++)](https://skillicons.dev)
 
-![my certification](/img/my-certification.png)
+![my certification](/img/MPC_scheme.drawio.png)
 
 <!--
 **AKX-M/AKX-M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
