@@ -1,10 +1,10 @@
-#910-ое ОСНЗ АСУ
+# 910-ое ОСНЗ АСУ
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=27&pause=5000&color=2234A7&width=600&height=61&lines=Страницы+истории+потомков+Жуковского)](https://git.io/typing-svg)
 
 [![My Skills](https://skillicons.dev/icons?i=matlab,python,c++)](https://skillicons.dev)
 
-![my certification](/img/MPC_scheme.drawio.png)
+![](/img/MPC_scheme.drawio.png)
 
 <!--
 **AKX-M/AKX-M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
