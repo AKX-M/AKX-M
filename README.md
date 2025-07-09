@@ -1,6 +1,8 @@
 # [910-ое ОСНЗ АСУ](color=#0254a6) 
 
 [Записки потомков Жуковского](color=0254a6) 
+
+![](/img/IMG_5005.png)
 <!--
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=27&pause=5000&color=0254A6&width=600&height=61&lines=Записки+потомков+Жуковского)](https://git.io/typing-svg)
 -->
