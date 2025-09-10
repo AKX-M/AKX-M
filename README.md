@@ -1,4 +1,4 @@
-# ![](/img/ussr_small.gif) 910-ое ОСпНЗ АКСУ
+# ![](/img/ussr_small.gif)![](/img/russia_small.gif) 910-ое ОСпНЗ АКСУ
 
 ## Записки потомков Жуковского
 
