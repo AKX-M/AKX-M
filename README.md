@@ -35,7 +35,7 @@ $\color{0254a6}{test}$
 И тем более все страшились её раскрытого капюшона. \
 Они боялись боевой стойки "Кобры"! 
 
-
+![](/img/akx_logo.png)
 
 
 [![My Skills](https://skillicons.dev/icons?i=matlab,python,c++)](https://skillicons.dev)
