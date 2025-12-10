@@ -43,4 +43,4 @@ $\color{0254a6}{test}$
 
 ![](/img/akx_logo.png)
 
-[![My Skills](https://skillicons.dev/icons?i=matlab,python,c++)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=matlab,python,c,cpp)](https://skillicons.dev)
