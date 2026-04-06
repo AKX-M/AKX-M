@@ -1,4 +1,4 @@
-# ![](/img/ussr_small.gif)![](/img/russia_small.gif) 910-ое ОСпНЗ АКСУ 
+# ![](/img/ussr_small.gif)![](/img/russia_small.gif) 910-ое ОСпНЗ АКСУ  <img src="/img/АКХ_лого_су27.png" width="80">
 
 ![](/img/su33-su30sm.png)
 
