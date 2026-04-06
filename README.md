@@ -1,7 +1,5 @@
 # ![](/img/ussr_small.gif)![](/img/russia_small.gif) 910-ое ОСпНЗ АКСУ 
 
-![](/img/небо_за_нас.jpg)
-
 ![](/img/su33-su30sm.png)
 
 ## Труды потомков Жуковского
@@ -12,7 +10,9 @@ color=0254a6
 
 $\color{0254a6}{test}$
 
+![](/img/небо_за_нас.jpg)
 
+![](/img/akx_logo.png)
 
 Солнечные лучи ласкали её стальное тело, \
 Холодный блеск рождал чувство непреступности. \
@@ -56,7 +56,5 @@ $\color{0254a6}{test}$
 И тем более все страшились её раскрытого капюшона. 
 Они боялись боевой стойки "Кобры"! 
 ```
-
-![](/img/akx_logo.png)
 
 [![My Skills](https://skillicons.dev/icons?i=matlab,python,c,cpp)](https://skillicons.dev)
