@@ -4,7 +4,7 @@
 
 ![](https://images-na.ssl-images-amazon.com/images/I/81j0kPR-upL.jpg)
 
-![](https://vk.ru/doc271051315_704037889)
+![](https://vk.ru/doc271051315_704037889.jpg)
 
 «За Великую Россию»
 
