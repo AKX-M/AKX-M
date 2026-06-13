@@ -2,6 +2,8 @@
 
 ![](/img/su33-su30sm.png)
 
+![](https://copertine.hoepli.it/hoepli/xxl/978/0471/9780471371458.jpg)
+
 «За Великую Россию»
 
 Взлетает пара боевая, \
