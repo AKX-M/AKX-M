@@ -4,7 +4,7 @@
 
 ![](https://images-na.ssl-images-amazon.com/images/I/81j0kPR-upL.jpg)
 
-![](https://disk.yandex.ru/i/HwsbDmGaVAo2bQ/МиГ-23-Жаркое-небо-Афганистана.jpg)
+![](https://vk.ru/doc271051315_704037889)
 
 «За Великую Россию»
 
