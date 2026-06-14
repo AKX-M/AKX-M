@@ -2,10 +2,6 @@
 
 ![](/img/su33-su30sm.png)
 
-![](https://images-na.ssl-images-amazon.com/images/I/81j0kPR-upL.jpg)
-
-[](https://vk.ru/doc271051315_704037889)
-
 «За Великую Россию»
 
 Взлетает пара боевая, \
